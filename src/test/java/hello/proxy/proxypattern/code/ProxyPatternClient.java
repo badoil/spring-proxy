@@ -1,10 +1,10 @@
 package hello.proxy.proxypattern.code;
 
-public class ProxyPatterClient {
+public class ProxyPatternClient {
 
     private final Subject subject;
 
-    public ProxyPatterClient(Subject subject) {
+    public ProxyPatternClient(Subject subject) {
         this.subject = subject;
     }
 
